@@ -69,7 +69,6 @@ class MainActivity : AppCompatActivity() {
                 override fun onQueryTextSubmit(queryTxt: String?): Boolean {
                     clearFocus()
                     setQuery("", false)
-                    onActionViewCollapsed()
                     queryTxt?.let {
                         gotoSearchActivity(it)
                     }
