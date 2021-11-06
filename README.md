@@ -26,6 +26,8 @@ APPID = "YOUR_APPID"
 ## Architecture
 
 This application use MVVM (Model-View-ViewModel) pattern
+<img src="https://github.com/Sibaho/Weather-App/blob/master/img/mvvm.png">
+
 
 ## Libraries
 - Room
