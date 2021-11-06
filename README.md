@@ -6,7 +6,8 @@
 ````properties
 APPID = "YOUR_APPID"
 ````
-
+APPID is API_KEY that you can get from https://openweathermap.org/
+- Then open the project using Android Studio
 - In your Android Studio, choose Build menu, click Make Project
 - Run app
 
